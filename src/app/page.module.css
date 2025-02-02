@@ -1,0 +1,46 @@
+.button {
+    padding: 12px 18px;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    background: linear-gradient(to right, #8d51ff, #fb64b6, #ffb869);
+    border-radius: 0.375rem; /* Matches the button's curvature */
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+    outline: #364153;
+    outline-style: double;
+    outline-offset: 2px;
+    border: none;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  /* Gradient bottom border */
+  .button::after {
+    content: "";
+    position: absolute;
+    left: 50%; /* Start from the center */
+    bottom: -1px; /* Moves up slightly to blend better */
+    width: 99%; /* Slightly reduced width to avoid sharp edges */
+    height: 4px; /* Thickness of the border */
+    border-radius: 0 0 999px 999px; /* Ensures smooth rounded edges */
+    background: linear-gradient(to right, #6a3cc2, #c74a9e, #d98b5c);
+    transform: translateX(-50%); /* Centers the border */
+    transition: opacity 0.1s ease-in-out;
+  }
+  
+  /* Hover effect */
+  .button:hover {
+    filter: brightness(105%);
+  }
+  
+  /* Active (Click) Effect - Border disappears */
+  .button:active {
+    transform: translateY(3px); /* Moves button down */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+  }
+  
+  .button:active::after {
+    opacity: 0; /* Hides bottom border */
+  }

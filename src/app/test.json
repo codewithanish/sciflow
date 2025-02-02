@@ -1,0 +1,112 @@
+{
+  "events": ["Air Trajectory", "Anatomy and Physiology"],
+  "students": ["Aashi Malvi", "Aashritha Vaka"],
+  "tournaments": {
+    "highlands": {
+      "date": "2024-10-5",
+      "weight": 0.3,
+      "teams": {
+        "a-team": {
+          "Air Trajectory": {
+            "partners": ["Kelvin Quan", "Zoha Mohammed"],
+            "event-placement": 24,
+            "event-total-competing-teams": 29
+          },
+          "Anatomy and Physiology": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 1,
+            "event-total-competing-teams": 98
+          },
+          "Codebusters": {
+            "partners": ["Kunsh Kalra", "Joshua Zheng", "Dylan Capule"],
+            "event-placement": 5,
+            "event-total-competing-teams": 93
+          }
+        },
+        "b-team": {
+          "Air Trajectory": {
+            "partners": ["Alekhya Dushetty", "Aashi Malvi"],
+            "event-placement": 22,
+            "event-total-competing-teams": 29
+          },
+          "Anatomy and Physiology": {
+            "partners": ["Leonardo Dou", "Vihaan Joshi"],
+            "event-placement": 55,
+            "event-total-competing-teams": 98
+          },
+          "Codebusters": {
+            "partners": ["Sophia Xia", "Vihaan Joshi", "Jeeya Dwivedi"],
+            "event-placement": 49,
+            "event-total-competing-teams": 93
+          }
+        }
+      }
+    }
+  },
+  "test-offs": {
+    "fall-test-offs": {
+      "weight": 1.0,
+      "events": [
+        {
+          "event-name": "Air Trajectory",
+          "participants": [
+            {
+              "student-name": "Kelvin Quan",
+              "placement": 1
+            },
+            {
+              "student-name": "Zoha Mohammed",
+              "placement": 1
+            },
+            {
+              "student-name": "Alekhya Dushetty",
+              "placement": 2
+            },
+            {
+              "student-name": "Aashi Malvi",
+              "placement": 2
+            }
+          ]
+        }
+      ]
+    },
+    "winter-test-offs": {
+      "weight": 2.0,
+      "events": [
+        {
+          "event-name": "Anatomy and Physiology",
+          "participants": [
+            {
+              "student-name": "Anish Kunapareddy",
+              "placement": 1
+            },
+            {
+              "student-name": "Raymond Zou",
+              "placement": 2
+            },
+            {
+              "student-name": "Tanya Thind",
+              "placement": 3
+            },
+            {
+              "student-name": "Leonardo Dou",
+              "placement": 4
+            },
+            {
+              "student-name": "Eduardo Erazo",
+              "placement": 5
+            },
+            {
+              "student-name": "Nivaan Debnath",
+              "placement": 6
+            },
+            {
+              "student-name": "Advik Manoj",
+              "placement": 7
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
