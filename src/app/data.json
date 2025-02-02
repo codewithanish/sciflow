@@ -61,7 +61,7 @@
     "Tanya Thind",
     "Thaanvi Kumar",
     "Toms Thomas",
-    "Vedant Veranasi",
+    "Vedant Varanasi",
     "Vihaan Joshi",
     "Zoha Mohammed",
     "Zurui Zhang"
@@ -69,363 +69,228 @@
   "tournaments": {
     "highlands": {
       "date": "2024-10-5",
-      "weight": 0.3,
+      "weight": 3,
       "teams": {
         "a-team": {
           "Air Trajectory": {
-            "partners": [
-              "Kelvin Quan",
-              "Zoha Mohammed"
-            ],
+            "partners": ["Kelvin Quan", "Zoha Mohammed"],
             "event-placement": 24,
             "event-total-competing-teams": 29
           },
           "Anatomy and Physiology": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 1,
             "event-total-competing-teams": 98
           },
           "Codebusters": {
-            "partners": [
-              "Kunsh Kalra",
-              "Joshua Zheng",
-              "Dylan Capule"
-            ],
+            "partners": ["Kunsh Kalra", "Joshua Zheng", "Dylan Capule"],
             "event-placement": 5,
             "event-total-competing-teams": 93
           },
           "Crimebusters": {
-            "partners": [
-              "Kelvin Quan",
-              "Aria Zhang"
-            ],
+            "partners": ["Kelvin Quan", "Aria Zhang"],
             "event-placement": 42,
             "event-total-competing-teams": 94
           },
           "Disease Detectives": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 11,
             "event-total-competing-teams": 90
           },
           "Dynamic Planet": {
-            "partners": [
-              "Kunsh Kalra",
-              "Evan Feng"
-            ],
+            "partners": ["Kunsh Kalra", "Evan Feng"],
             "event-placement": 7,
             "event-total-competing-teams": 86
           },
           "Ecology": {
-            "partners": [
-              "Maverick Ma",
-              "Madeline Rorie"
-            ],
+            "partners": ["Maverick Ma", "Madeline Rorie"],
             "event-placement": 10,
             "event-total-competing-teams": 92
           },
           "Entomology": {
-            "partners": [
-              "Maverick Ma",
-              "Madeline Rorie"
-            ],
+            "partners": ["Maverick Ma", "Madeline Rorie"],
             "event-placement": 25,
             "event-total-competing-teams": 88
           },
           "Experimental Design": {
-            "partners": [
-              "Zoha Mohammed",
-              "Kathy Liu",
-              "Anika Mehta"
-            ],
+            "partners": ["Zoha Mohammed", "Kathy Liu", "Anika Mehta"],
             "event-placement": 5,
             "event-total-competing-teams": 82
           },
           "Helicopter": {
-            "partners": [
-              "Aria Zhang",
-              "Joshua Zheng"
-            ],
+            "partners": ["Aria Zhang", "Joshua Zheng"],
             "event-placement": 14,
             "event-total-competing-teams": 23
           },
           "Meteorology": {
-            "partners": [
-              "Evan Feng",
-              "Zurui Zhang"
-            ],
+            "partners": ["Evan Feng", "Zurui Zhang"],
             "event-placement": 3,
             "event-total-competing-teams": 87
           },
           "Metric Mastery": {
-            "partners": [
-              "Kunsh Kalra",
-              "Dylan Capule"
-            ],
+            "partners": ["Kunsh Kalra", "Dylan Capule"],
             "event-placement": 5,
             "event-total-competing-teams": 81
           },
           "Microbe Mission": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 6,
             "event-total-competing-teams": 90
           },
           "Mission Possible": {
-            "partners": [
-              "Zoha Mohammed",
-              "Anika Mehta"
-            ],
+            "partners": ["Zoha Mohammed", "Anika Mehta"],
             "event-placement": 13,
             "event-total-competing-teams": 21
           },
           "Optics": {
-            "partners": [
-              "Joshua Zheng",
-              "Madeline Rorie"
-            ],
+            "partners": ["Joshua Zheng", "Madeline Rorie"],
             "event-placement": 26,
             "event-total-competing-teams": 86
           },
           "Potions and Poisons": {
-            "partners": [
-              "Kelvin Quan",
-              "Zurui Zhang"
-            ],
+            "partners": ["Kelvin Quan", "Zurui Zhang"],
             "event-placement": 9,
             "event-total-competing-teams": 87
           },
           "Reach for the Stars": {
-            "partners": [
-              "Evan Feng",
-              "Zurui Zhang"
-            ],
+            "partners": ["Evan Feng", "Zurui Zhang"],
             "event-placement": 4,
             "event-total-competing-teams": 85
           },
           "Road Scholar": {
-            "partners": [
-              "Kunsh Kalra",
-              "Anish Kunapareddy"
-            ],
+            "partners": ["Kunsh Kalra", "Anish Kunapareddy"],
             "event-placement": 8,
             "event-total-competing-teams": 78
           },
           "Scrambler": {
-            "partners": [
-              "Aria Zhang",
-              "Kathy Liu"
-            ],
+            "partners": ["Aria Zhang", "Kathy Liu"],
             "event-placement": 5,
             "event-total-competing-teams": 24
           },
           "Tower": {
-            "partners": [
-              "Kelvin Quan",
-              "Kathy Liu"
-            ],
+            "partners": ["Kelvin Quan", "Kathy Liu"],
             "event-placement": 7,
             "event-total-competing-teams": 45
           },
           "Wind Power": {
-            "partners": [
-              "Kelvin Quan",
-              "Joshua Zheng"
-            ],
+            "partners": ["Kelvin Quan", "Joshua Zheng"],
             "event-placement": 21,
             "event-total-competing-teams": 75
           },
           "Fossils": {
-            "partners": [
-              "Evan Feng",
-              "Maverick Ma"
-            ],
+            "partners": ["Evan Feng", "Maverick Ma"],
             "event-placement": 1,
             "event-total-competing-teams": 88
           }
         },
         "b-team": {
           "Air Trajectory": {
-            "partners": [
-              "Alekhya Dushetty",
-              "Aashi Malvi"
-            ],
+            "partners": ["Alekhya Dushetty", "Aashi Malvi"],
             "event-placement": 22,
             "event-total-competing-teams": 29
           },
           "Anatomy and Physiology": {
-            "partners": [
-              "Leonardo Dou",
-              "Vihaan Joshi"
-            ],
+            "partners": ["Leonardo Dou", "Vihaan Joshi"],
             "event-placement": 55,
             "event-total-competing-teams": 98
           },
           "Codebusters": {
-            "partners": [
-              "Sophia Xia",
-              "Vihaan Joshi",
-              "Jeeya Dwivedi"
-            ],
+            "partners": ["Sophia Xia", "Vihaan Joshi", "Jeeya Dwivedi"],
             "event-placement": 49,
             "event-total-competing-teams": 93
           },
           "Crimebusters": {
-            "partners": [
-              "Sophia Xia",
-              "Jeeya Dwivedi"
-            ],
+            "partners": ["Sophia Xia", "Jeeya Dwivedi"],
             "event-placement": 49,
             "event-total-competing-teams": 94
           },
           "Disease Detectives": {
-            "partners": [
-              "Arnav Taneja",
-              "Vihaan Joshi"
-            ],
+            "partners": ["Arnav Taneja", "Vihaan Joshi"],
             "event-placement": 50,
             "event-total-competing-teams": 90
           },
           "Dynamic Planet": {
-            "partners": [
-              "Arnav Taneja",
-              "Sophia Christanti"
-            ],
+            "partners": ["Arnav Taneja", "Sophia Christanti"],
             "event-placement": 13,
             "event-total-competing-teams": 86
           },
           "Ecology": {
-            "partners": [
-              "Grace Odeyomi",
-              "Leonardo Dou"
-            ],
+            "partners": ["Grace Odeyomi", "Leonardo Dou"],
             "event-placement": 14,
             "event-total-competing-teams": 92
           },
           "Entomology": {
-            "partners": [
-              "Grace Odeyomi",
-              "Sophia Xia"
-            ],
+            "partners": ["Grace Odeyomi", "Sophia Xia"],
             "event-placement": 27,
             "event-total-competing-teams": 88
           },
           "Experimental Design": {
-            "partners": [
-              "Tanvi Jandhyala",
-              "Riya Swaminathan",
-              "Sophia Xia"
-            ],
+            "partners": ["Tanvi Jandhyala", "Riya Swaminathan", "Sophia Xia"],
             "event-placement": 17,
             "event-total-competing-teams": 82
           },
           "Helicopter": {
-            "partners": [
-              "Karthi Chaarulatha",
-              "Thaanvi Kumar"
-            ],
+            "partners": ["Karthi Chaarulatha", "Thaanvi Kumar"],
             "event-placement": 17,
             "event-total-competing-teams": 23
           },
           "Meteorology": {
-            "partners": [
-              "Vedant Veranasi",
-              "Leonardo Dou"
-            ],
+            "partners": ["Vedant Varanasi", "Leonardo Dou"],
             "event-placement": 26,
             "event-total-competing-teams": 87
           },
           "Metric Mastery": {
-            "partners": [
-              "Maanvi Thatola",
-              "Riya Swaminathan"
-            ],
+            "partners": ["Maanvi Thatola", "Riya Swaminathan"],
             "event-placement": 45,
             "event-total-competing-teams": 81
           },
           "Microbe Mission": {
-            "partners": [
-              "Leonardo Dou",
-              "Thaanvi Kumar"
-            ],
+            "partners": ["Leonardo Dou", "Thaanvi Kumar"],
             "event-placement": 42,
             "event-total-competing-teams": 90
           },
           "Mission Possible": {
-            "partners": [
-              "Karthi Chaarulatha"
-            ],
+            "partners": ["Karthi Chaarulatha"],
             "event-placement": 15,
             "event-total-competing-teams": 21
           },
           "Optics": {
-            "partners": [
-              "Thaanvi Kumar",
-              "Maanvi Thatola"
-            ],
+            "partners": ["Thaanvi Kumar", "Maanvi Thatola"],
             "event-placement": 54,
             "event-total-competing-teams": 86
           },
           "Potions and Poisons": {
-            "partners": [
-              "Maanvi Thatola",
-              "Vihaan Joshi"
-            ],
+            "partners": ["Maanvi Thatola", "Vihaan Joshi"],
             "event-placement": 39,
             "event-total-competing-teams": 87
           },
           "Reach for the Stars": {
-            "partners": [
-              "Maanvi Thatola",
-              "Arnav Taneja"
-            ],
+            "partners": ["Maanvi Thatola", "Arnav Taneja"],
             "event-placement": 31,
             "event-total-competing-teams": 85
           },
           "Road Scholar": {
-            "partners": [
-              "Grace Odeyomi",
-              "Aashi Malvi"
-            ],
+            "partners": ["Grace Odeyomi", "Aashi Malvi"],
             "event-placement": 26,
             "event-total-competing-teams": 78
           },
           "Scrambler": {
-            "partners": [
-              "Sophia Christanti",
-              "Alekhya Dushetty"
-            ],
+            "partners": ["Sophia Christanti", "Alekhya Dushetty"],
             "event-placement": 17,
             "event-total-competing-teams": 24
           },
           "Tower": {
-            "partners": [
-              "Karthi Chaarulatha",
-              "Aashi Malvi"
-            ],
+            "partners": ["Karthi Chaarulatha", "Aashi Malvi"],
             "event-placement": 28,
             "event-total-competing-teams": 45
           },
           "Wind Power": {
-            "partners": [
-              "Vedant Veranasi",
-              "Tanvi Jandhyala"
-            ],
+            "partners": ["Vedant Varanasi", "Tanvi Jandhyala"],
             "event-placement": 23,
             "event-total-competing-teams": 75
           },
           "Fossils": {
-            "partners": [
-              "Maanvi Thatola",
-              "Arnav Taneja"
-            ],
+            "partners": ["Maanvi Thatola", "Arnav Taneja"],
             "event-placement": 38,
             "event-total-competing-teams": 88
           }
@@ -434,249 +299,158 @@
     },
     "dulles": {
       "tournament-date": "2024-10-19",
-      "weight": 0.3,
+      "weight": 3,
       "teams": {
         "a-team": {
           "Anatomy and Physiology": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 3,
             "event-total-competing-teams": 76
           },
           "Codebusters": {
-            "partners": [
-              "Kunsh Kalra",
-              "Joshua Zheng",
-              "Dylan Capule"
-            ],
+            "partners": ["Kunsh Kalra", "Joshua Zheng", "Dylan Capule"],
             "event-placement": 8,
             "event-total-competing-teams": 74
           },
           "Crimebusters": {
-            "partners": [
-              "Kelvin Quan",
-              "Aria Zhang"
-            ],
+            "partners": ["Kelvin Quan", "Aria Zhang"],
             "event-placement": 8,
             "event-total-competing-teams": 72
           },
           "Disease Detectives": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 3,
             "event-total-competing-teams": 73
           },
           "Dynamic Planet": {
-            "partners": [
-              "Zurui Zhang",
-              "Evan Feng"
-            ],
+            "partners": ["Zurui Zhang", "Evan Feng"],
             "event-placement": 4,
             "event-total-competing-teams": 72
           },
           "Ecology": {
-            "partners": [
-              "Maverick Ma",
-              "Madeline Rorie"
-            ],
+            "partners": ["Maverick Ma", "Madeline Rorie"],
             "event-placement": 4,
             "event-total-competing-teams": 72
           },
           "Entomology": {
-            "partners": [
-              "Maverick Ma",
-              "Madeline Rorie"
-            ],
+            "partners": ["Maverick Ma", "Madeline Rorie"],
             "event-placement": 10,
             "event-total-competing-teams": 65
           },
           "Meteorology": {
-            "partners": [
-              "Evan Feng",
-              "Zurui Zhang"
-            ],
+            "partners": ["Evan Feng", "Zurui Zhang"],
             "event-placement": 1,
             "event-total-competing-teams": 70
           },
           "Microbe Mission": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 2,
             "event-total-competing-teams": 70
           },
           "Optics": {
-            "partners": [
-              "Joshua Zheng",
-              "Madeline Rorie"
-            ],
+            "partners": ["Joshua Zheng", "Madeline Rorie"],
             "event-placement": 11,
             "event-total-competing-teams": 74
           },
           "Potions and Poisons": {
-            "partners": [
-              "Kelvin Quan",
-              "Zurui Zhang"
-            ],
+            "partners": ["Kelvin Quan", "Zurui Zhang"],
             "event-placement": 23,
             "event-total-competing-teams": 72
           },
           "Reach for the Stars": {
-            "partners": [
-              "Evan Feng",
-              "Zurui Zhang"
-            ],
+            "partners": ["Evan Feng", "Zurui Zhang"],
             "event-placement": 3,
             "event-total-competing-teams": 73
           },
           "Road Scholar": {
-            "partners": [
-              "Kunsh Kalra",
-              "Anish Kunapareddy"
-            ],
+            "partners": ["Kunsh Kalra", "Anish Kunapareddy"],
             "event-placement": 5,
             "event-total-competing-teams": 62
           },
           "Wind Power": {
-            "partners": [
-              "Kelvin Quan",
-              "Joshua Zheng"
-            ],
+            "partners": ["Kelvin Quan", "Joshua Zheng"],
             "event-placement": 19,
             "event-total-competing-teams": 67
           },
           "Fossils": {
-            "partners": [
-              "Evan Feng",
-              "Maverick Ma"
-            ],
+            "partners": ["Evan Feng", "Maverick Ma"],
             "event-placement": 2,
             "event-total-competing-teams": 66
           }
         },
         "b-team": {
           "Anatomy and Physiology": {
-            "partners": [
-              "Leonardo Dou",
-              "Vihaan Joshi"
-            ],
+            "partners": ["Leonardo Dou", "Vihaan Joshi"],
             "event-placement": 25,
             "event-total-competing-teams": 76
           },
           "Codebusters": {
-            "partners": [
-              "Jeeya Dwivedi",
-              "Sophia Xia"
-            ],
+            "partners": ["Jeeya Dwivedi", "Sophia Xia"],
             "event-placement": 19,
             "event-total-competing-teams": 74
           },
           "Crimebusters": {
-            "partners": [
-              "Jeeya Dwivedi",
-              "Sophia Xia"
-            ],
+            "partners": ["Jeeya Dwivedi", "Sophia Xia"],
             "event-placement": 10,
             "event-total-competing-teams": 72
           },
           "Disease Detectives": {
-            "partners": [
-              "Arnav Taneja",
-              "Riya Swaminathan"
-            ],
+            "partners": ["Arnav Taneja", "Riya Swaminathan"],
             "event-placement": 34,
             "event-total-competing-teams": 73
           },
           "Dynamic Planet": {
-            "partners": [
-              "Arnav Taneja",
-              "Grace Odeyomi"
-            ],
+            "partners": ["Arnav Taneja", "Grace Odeyomi"],
             "event-placement": 7,
             "event-total-competing-teams": 72
           },
           "Ecology": {
-            "partners": [
-              "Grace Odeyomi",
-              "Leonardo Dou"
-            ],
+            "partners": ["Grace Odeyomi", "Leonardo Dou"],
             "event-placement": 25,
             "event-total-competing-teams": 72
           },
           "Entomology": {
-            "partners": [
-              "Grace Odeyomi",
-              "Sophia Xia"
-            ],
+            "partners": ["Grace Odeyomi", "Sophia Xia"],
             "event-placement": 16,
             "event-total-competing-teams": 65
           },
           "Meteorology": {
-            "partners": [
-              "Leonardo Dou",
-              "Vedant Veranasi"
-            ],
+            "partners": ["Leonardo Dou", "Vedant Varanasi"],
             "event-placement": 11,
             "event-total-competing-teams": 70
           },
           "Microbe Mission": {
-            "partners": [
-              "Vihaan Joshi",
-              "Maanvi Thatola"
-            ],
+            "partners": ["Vihaan Joshi", "Maanvi Thatola"],
             "event-placement": 33,
             "event-total-competing-teams": 70
           },
           "Optics": {
-            "partners": [
-              "Alekhya Dushetty",
-              "Eduardo Erazo"
-            ],
+            "partners": ["Alekhya Dushetty", "Eduardo Erazo"],
             "event-placement": 32,
             "event-total-competing-teams": 74
           },
           "Potions and Poisons": {
-            "partners": [
-              "Kathy Liu",
-              "Maanvi Thatola"
-            ],
+            "partners": ["Kathy Liu", "Maanvi Thatola"],
             "event-placement": 27,
             "event-total-competing-teams": 72
           },
           "Reach for the Stars": {
-            "partners": [
-              "Arnav Taneja",
-              "Maanvi Thatola"
-            ],
+            "partners": ["Arnav Taneja", "Maanvi Thatola"],
             "event-placement": 10,
             "event-total-competing-teams": 73
           },
           "Road Scholar": {
-            "partners": [
-              "Grace Odeyomi",
-              "Thaanvi Kumar"
-            ],
+            "partners": ["Grace Odeyomi", "Thaanvi Kumar"],
             "event-placement": 16,
             "event-total-competing-teams": 62
           },
           "Wind Power": {
-            "partners": [
-              "Anika Mehta",
-              "Vedant Veranasi"
-            ],
+            "partners": ["Anika Mehta", "Vedant Varanasi"],
             "event-placement": 12,
             "event-total-competing-teams": 67
           },
           "Fossils": {
-            "partners": [
-              "Arnav Taneja",
-              "Eduardo Erazo"
-            ],
+            "partners": ["Arnav Taneja", "Eduardo Erazo"],
             "event-placement": 13,
             "event-total-competing-teams": 66
           }
@@ -685,259 +459,163 @@
     },
     "ut": {
       "tournament-date": "2024-10-6",
-      "weight": 1.2,
+      "weight": 12,
       "teams": {
         "a-team": {
           "Air Trajectory": {
-            "partners": [
-              "Kelvin Quan",
-              "Zoha Mohammed"
-            ],
+            "partners": ["Kelvin Quan", "Zoha Mohammed"],
             "event-placement": 6,
             "event-total-competing-teams": 23
           },
           "Anatomy and Physiology": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 2,
             "event-total-competing-teams": 24
           },
           "Codebusters": {
-            "partners": [
-              "Kunsh Kalra",
-              "Joshua Zheng",
-              "Dylan Capule"
-            ],
+            "partners": ["Kunsh Kalra", "Joshua Zheng", "Dylan Capule"],
             "event-placement": 6,
             "event-total-competing-teams": 23
           },
           "Crimebusters": {
-            "partners": [
-              "Kelvin Quan",
-              "Aria Zhang"
-            ],
+            "partners": ["Kelvin Quan", "Aria Zhang"],
             "event-placement": 4,
             "event-total-competing-teams": 25
           },
           "Disease Detectives": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 6,
             "event-total-competing-teams": 23
           },
           "Dynamic Planet": {
-            "partners": [
-              "Zurui Zhang",
-              "Evan Feng"
-            ],
+            "partners": ["Zurui Zhang", "Evan Feng"],
             "event-placement": 6,
             "event-total-competing-teams": 23
           },
           "Ecology": {
-            "partners": [
-              "Maverick Ma",
-              "Madeline Rorie"
-            ],
+            "partners": ["Maverick Ma", "Madeline Rorie"],
             "event-placement": 6,
             "event-total-competing-teams": 24
           },
           "Entomology": {
-            "partners": [
-              "Maverick Ma",
-              "Madeline Rorie"
-            ],
+            "partners": ["Maverick Ma", "Madeline Rorie"],
             "event-placement": 23,
             "event-total-competing-teams": 23
           },
           "Experimental Design": {
-            "partners": [
-              "Zoha Mohammed",
-              "Kathy Liu",
-              "Anika Mehta"
-            ],
+            "partners": ["Zoha Mohammed", "Kathy Liu", "Anika Mehta"],
             "event-placement": 4,
             "event-total-competing-teams": 24
           },
           "Helicopter": {
-            "partners": [
-              "Anika Mehta",
-              "Joshua Zheng"
-            ],
+            "partners": ["Anika Mehta", "Joshua Zheng"],
             "event-placement": 5,
             "event-total-competing-teams": 25
           },
           "Meteorology": {
-            "partners": [
-              "Evan Feng",
-              "Zurui Zhang"
-            ],
+            "partners": ["Evan Feng", "Zurui Zhang"],
             "event-placement": 2,
             "event-total-competing-teams": 25
           },
           "Metric Mastery": {
-            "partners": [
-              "Kunsh Kalra",
-              "Dylan Capule"
-            ],
+            "partners": ["Kunsh Kalra", "Dylan Capule"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Microbe Mission": {
-            "partners": [
-              "Anish Kunapareddy",
-              "Raymond Zou"
-            ],
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
             "event-placement": 4,
             "event-total-competing-teams": 25
           },
           "Mission Possible": {
-            "partners": [
-              "Zoha Mohammed",
-              "Anika Mehta"
-            ],
+            "partners": ["Zoha Mohammed", "Anika Mehta"],
             "event-placement": 6,
             "event-total-competing-teams": 25
           },
           "Optics": {
-            "partners": [
-              "Joshua Zheng",
-              "Madeline Rorie"
-            ],
+            "partners": ["Joshua Zheng", "Madeline Rorie"],
             "event-placement": 7,
             "event-total-competing-teams": 25
           },
           "Potions and Poisons": {
-            "partners": [
-              "Kelvin Quan",
-              "Aria Zhang"
-            ],
+            "partners": ["Kelvin Quan", "Aria Zhang"],
             "event-placement": 19,
             "event-total-competing-teams": 25
           },
           "Reach for the Stars": {
-            "partners": [
-              "Evan Feng",
-              "Zurui Zhang"
-            ],
+            "partners": ["Evan Feng", "Zurui Zhang"],
             "event-placement": 2,
             "event-total-competing-teams": 25
           },
           "Road Scholar": {
-            "partners": [
-              "Kunsh Kalra",
-              "Anish Kunapareddy"
-            ],
+            "partners": ["Kunsh Kalra", "Anish Kunapareddy"],
             "event-placement": 5,
             "event-total-competing-teams": 25
           },
           "Scrambler": {
-            "partners": [
-              "Kathy Liu",
-              "Aria Zhang"
-            ],
+            "partners": ["Kathy Liu", "Aria Zhang"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Tower": {
-            "partners": [
-              "Kathy Liu",
-              "Kelvin Quan"
-            ],
+            "partners": ["Kathy Liu", "Kelvin Quan"],
             "event-placement": 2,
             "event-total-competing-teams": 25
           },
           "Write It Do It": {
-            "partners": [
-              "Evan Feng",
-              "Joshua Zheng"
-            ],
+            "partners": ["Evan Feng", "Joshua Zheng"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Wind Power": {
-            "partners": [
-              "Kelvin Quan",
-              "Joshua Zheng"
-            ],
+            "partners": ["Kelvin Quan", "Joshua Zheng"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Fossils": {
-            "partners": [
-              "Evan Feng",
-              "Maverick Ma"
-            ],
+            "partners": ["Evan Feng", "Maverick Ma"],
             "event-placement": 2,
             "event-total-competing-teams": 23
           }
         },
         "b-team": {
           "Air Trajectory": {
-            "partners": [
-              "Grace Odeyomi",
-              "Sophia Christanti"
-            ],
+            "partners": ["Grace Odeyomi", "Sophia Christanti"],
             "event-placement": 23,
             "event-total-competing-teams": 23
           },
           "Anatomy and Physiology": {
-            "partners": [
-              "Leonardo Dou",
-              "Tanya Thind"
-            ],
+            "partners": ["Leonardo Dou", "Tanya Thind"],
             "event-placement": 24,
             "event-total-competing-teams": 24
           },
           "Codebusters": {
-            "partners": [
-              "Aashritha Vaka",
-              "Deeti Modi",
-              "Riya Swaminathan"
-            ],
+            "partners": ["Aashritha Vaka", "Deeti Modi", "Riya Swaminathan"],
             "event-placement": 15,
             "event-total-competing-teams": 23
           },
           "Crimebusters": {
-            "partners": [
-              "Aashritha Vaka",
-              "Deeti Modi"
-            ],
+            "partners": ["Aashritha Vaka", "Deeti Modi"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Disease Detectives": {
-            "partners": [
-              "Advik Manoj",
-              "Saanvi-Ava Patel"
-            ],
+            "partners": ["Advik Manoj", "Saanvi-Ava Patel"],
             "event-placement": 6,
             "event-total-competing-teams": 23
           },
           "Dynamic Planet": {
-            "partners": [
-              "Deeti Modi",
-              "Sophia Christanti"
-            ],
+            "partners": ["Deeti Modi", "Sophia Christanti"],
             "event-placement": 11,
             "event-total-competing-teams": 23
           },
           "Ecology": {
-            "partners": [
-              "Leonardo Dou",
-              "Advik Manoj"
-            ],
+            "partners": ["Leonardo Dou", "Advik Manoj"],
             "event-placement": 5,
             "event-total-competing-teams": 24
           },
           "Entomology": {
-            "partners": [
-              "Advik Manoj",
-              "Aashritha Vaka"
-            ],
+            "partners": ["Advik Manoj", "Aashritha Vaka"],
             "event-placement": 23,
             "event-total-competing-teams": 23
           },
@@ -945,120 +623,78 @@
             "partners": [
               "Riya Swaminathan",
               "Saanvi-Ava Patel",
-              "Tanvi Jandhyla"
+              "Tanvi Jandhyala"
             ],
             "event-placement": 13,
             "event-total-competing-teams": 24
           },
           "Helicopter": {
-            "partners": [
-              "Karthi Chaarulatha",
-              "Tanya Thind"
-            ],
+            "partners": ["Karthi Chaarulatha", "Tanya Thind"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Meteorology": {
-            "partners": [
-              "Leonardo Dou",
-              "Vedant Veranasi"
-            ],
+            "partners": ["Leonardo Dou", "Vedant Varanasi"],
             "event-placement": 14,
             "event-total-competing-teams": 25
           },
           "Metric Mastery": {
-            "partners": [
-              "Maanvi Thatola",
-              "Riya Swaminathan"
-            ],
+            "partners": ["Maanvi Thatola", "Riya Swaminathan"],
             "event-placement": 13,
             "event-total-competing-teams": 25
           },
           "Microbe Mission": {
-            "partners": [
-              "Leonardo Dou",
-              "Vedant Veranasi"
-            ],
+            "partners": ["Leonardo Dou", "Vedant Varanasi"],
             "event-placement": 15,
             "event-total-competing-teams": 25
           },
           "Mission Possible": {
-            "partners": [
-              "Aashritha Vaka",
-              "Karthi Chaarulatha"
-            ],
+            "partners": ["Aashritha Vaka", "Karthi Chaarulatha"],
             "event-placement": 15,
             "event-total-competing-teams": 25
           },
           "Optics": {
-            "partners": [
-              "Eduardo Erazo",
-              "Grace Odeyomi"
-            ],
+            "partners": ["Eduardo Erazo", "Grace Odeyomi"],
             "event-placement": 15,
             "event-total-competing-teams": 25
           },
           "Potions and Poisons": {
-            "partners": [
-              "Sophia Christanti",
-              "Maanvi Thatola"
-            ],
+            "partners": ["Sophia Christanti", "Maanvi Thatola"],
             "event-placement": 21,
             "event-total-competing-teams": 25
           },
           "Reach for the Stars": {
-            "partners": [
-              "Maanvi Thatola",
-              "Vedant Veranasi"
-            ],
+            "partners": ["Maanvi Thatola", "Vedant Varanasi"],
             "event-placement": 14,
             "event-total-competing-teams": 25
           },
           "Road Scholar": {
-            "partners": [
-              "Advik Manoj",
-              "Kashika Singal"
-            ],
+            "partners": ["Advik Manoj", "Kashika Singal"],
             "event-placement": 15,
             "event-total-competing-teams": 25
           },
           "Scrambler": {
-            "partners": [
-              "Sophia Christanti",
-              "Grace Odeyomi"
-            ],
+            "partners": ["Sophia Christanti", "Grace Odeyomi"],
             "event-placement": 25,
             "event-total-competing-teams": 25
           },
           "Tower": {
-            "partners": [
-              "Kashika Singal",
-              "Tanya Thind"
-            ],
+            "partners": ["Kashika Singal", "Tanya Thind"],
             "event-placement": 13,
             "event-total-competing-teams": 25
           },
           "WIDI": {
-            "partners": [
-              "Kashika Singal",
-              "Tanvi Jandhyla"
-            ],
+            "partners": ["Kashika Singal", "Tanvi Jandhyala"],
             "event-placement": 8,
             "event-total-competing-teams": 25
           },
           "Wind Power": {
-            "partners": [
-              "Tanvi Jandhyla",
-              "Vedant Veranasi"
-            ],
+            "partners": ["Tanvi Jandhyala", "Vedant Varanasi"],
             "event-placement": 12,
             "event-total-competing-teams": 25
           },
           "Fossils": {
-            "partners": [
-              "Eduardo Erazo",
-              "Maanvi Thatola"
-            ],
+            "partners": ["Eduardo Erazo", "Maanvi Thatola"],
             "event-placement": 14,
             "event-total-competing-teams": 23
           }
@@ -1067,7 +703,7 @@
     },
     "rickards": {
       "tournament-date": "2024-11-9",
-      "weight": 0.8,
+      "weight": 8,
       "teams": {
         "a-team": {
           "Air Trajectory": {
@@ -1198,7 +834,7 @@
             "event-total-competing-teams": 193
           },
           "Crimebusters": {
-            "partners": ["Manvi Thatola", "Sophia Christanti"],
+            "partners": ["Maanvi Thatola", "Sophia Christanti"],
             "event-placement": 69,
             "event-total-competing-teams": 216
           },
@@ -1208,7 +844,7 @@
             "event-total-competing-teams": 186
           },
           "Dynamic Planet": {
-            "partners": ["Grace Odeyomi", "Thannvi Kumar"],
+            "partners": ["Grace Odeyomi", "Thaanvi Kumar"],
             "event-placement": 29,
             "event-total-competing-teams": 189
           },
@@ -1238,7 +874,7 @@
             "event-total-competing-teams": 51
           },
           "Meteorology": {
-            "partners": ["Vedant Veranasi", "Leonardo Dou"],
+            "partners": ["Vedant Varanasi", "Leonardo Dou"],
             "event-placement": 28,
             "event-total-competing-teams": 176
           },
@@ -1253,7 +889,7 @@
             "event-total-competing-teams": 185
           },
           "Mission Possible": {
-            "partners": ["Karthi Chaarulatha"], 
+            "partners": ["Karthi Chaarulatha"],
             "event-placement": 40,
             "event-total-competing-teams": 40
           },
@@ -1294,11 +930,499 @@
           }
         }
       }
+    },
+    "mason": {
+      "tournament-date": "2024-11-9",
+      "weight": 8,
+      "teams": {
+        "a-team": {
+          "Air Trajectory": {
+            "partners": ["Kelvin Quan", "Zoha Mohammed"],
+            "event-placement": 3,
+            "event-total-competing-teams": 38
+          },
+          "Anatomy and Physiology": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 4,
+            "event-total-competing-teams": 92
+          },
+          "Codebusters": {
+            "partners": ["Kunsh Kalra", "Joshua Zheng", "Dylan Capule"],
+            "event-placement": 3,
+            "event-total-competing-teams": 72
+          },
+          "Crimebusters": {
+            "partners": ["Kelvin Quan", "Aria Zhang"],
+            "event-placement": 6,
+            "event-total-competing-teams": 84
+          },
+          "Disease Detectives": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 7,
+            "event-total-competing-teams": 84
+          },
+          "Dynamic Planet": {
+            "partners": ["Kunsh Kalra", "Evan Feng"],
+            "event-placement": 6,
+            "event-total-competing-teams": 85
+          },
+          "Ecology": {
+            "partners": ["Maverick Ma", "Madeline Rorie"],
+            "event-placement": 9,
+            "event-total-competing-teams": 86
+          },
+          "Entomology": {
+            "partners": ["Maverick Ma", "Madeline Rorie"],
+            "event-placement": 5,
+            "event-total-competing-teams": 76
+          },
+          "Experimental Design": {
+            "partners": ["Zoha Mohammed", "Kathy Liu", "Anika Mehta"],
+            "event-placement": 9,
+            "event-total-competing-teams": 72
+          },
+          "Fosils": {
+            "partners": ["Evan Feng", "Maverick Ma"],
+            "event-placement": 2,
+            "event-total-competing-teams": 78
+          },
+          "Helicopter": {
+            "partners": ["Arnav Taneja", "Joshua Zheng"],
+            "event-placement": 9,
+            "event-total-competing-teams": 30
+          },
+          "Meteorology": {
+            "partners": ["Evan Feng", "Zurui Zhang"],
+            "event-placement": 2,
+            "event-total-competing-teams": 80
+          },
+          "Metric Mastery": {
+            "partners": ["Kunsh Kalra", "Dylan Capule"],
+            "event-placement": 31,
+            "event-total-competing-teams": 78
+          },
+          "Microbe Mission": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 8,
+            "event-total-competing-teams": 79
+          },
+          "Mission Possible": {
+            "partners": ["Zoha Mohammed", "Anika Mehta"],
+            "event-placement": 13,
+            "event-total-competing-teams": 29
+          },
+          "Optics": {
+            "partners": ["Joshua Zheng", "Madeline Rorie"],
+            "event-placement": 9,
+            "event-total-competing-teams": 83
+          },
+          "Potions and Poisons": {
+            "partners": ["Kelvin Quan", "Zurui Zhang"],
+            "event-placement": 17,
+            "event-total-competing-teams": 83
+          },
+          "Reach for the Stars": {
+            "partners": ["Evan Feng", "Zurui Zhang"],
+            "event-placement": 4,
+            "event-total-competing-teams": 85
+          },
+          "Road Scholar": {
+            "partners": ["Kunah Kalra", "Anish Kunapareddy"],
+            "event-placement": 6,
+            "event-total-competing-teams": 73
+          },
+          "Scrambler": {
+            "partners": ["Aria Zhang", "Kathy Liu"],
+            "event-placement": 8,
+            "event-total-competing-teams": 36
+          },
+          "Tower": {
+            "partners": ["Kelvin Quan", "Kathy Liu"],
+            "event-placement": 8,
+            "event-total-competing-teams": 41
+          },
+          "Wind Power": {
+            "partners": ["Arnav Taneja", "Joshua Zheng"],
+            "event-placement": 31,
+            "event-total-competing-teams": 76
+          },
+          "Write It Do It": {
+            "partners": ["Madeline Rorie", "Aria Zhang"],
+            "event-placement": 10,
+            "event-total-competing-teams": 54
+          },
+          "b-team": {
+            "Air Trajectory": {
+              "partners": ["Grace Odeyomi", "Sophia Christanti"],
+              "event-placement": 25,
+              "event-total-competing-teams": 38
+            },
+            "Anatomy and Physiology": {
+              "partners": ["Leonardo Dou", "Nivaan Debnath"],
+              "event-placement": 30,
+              "event-total-competing-teams": 92
+            },
+            "Codebusters": {
+              "partners": [
+                "Maanvi Thatola",
+                "Vihaan Joshi",
+                "Riya Swaminathan"
+              ],
+              "event-placement": 26,
+              "event-total-competing-teams": 72
+            },
+            "Crimebusters": {
+              "partners": ["Deeti Modi", "Sophia Christanti"],
+              "event-placement": 22,
+              "event-total-competing-teams": 84
+            },
+            "Disease Detectives": {
+              "partners": ["Saanvi-Ava Patel", "Advik Manoj"],
+              "event-placement": 28,
+              "event-total-competing-teams": 84
+            },
+            "Dynamic Planet": {
+              "partners": ["Deeti Modi", "Sophia Christanti"],
+              "event-placement": 16,
+              "event-total-competing-teams": 85
+            },
+            "Ecology": {
+              "partners": ["Advik Manoj", "Leonardo Dou"],
+              "event-placement": 15,
+              "event-total-competing-teams": 86
+            },
+            "Entomology": {
+              "partners": ["Grace Odeyomi", "Advik Manoj"],
+              "event-placement": 13,
+              "event-total-competing-teams": 76
+            },
+            "Experimental Design": {
+              "partners": [
+                "Tanvi Jandhyala",
+                "Riya Swaminathan",
+                "Saanvi-Ava Patel"
+              ],
+              "event-placement": 27,
+              "event-total-competing-teams": 72
+            },
+            "Fosils": {
+              "partners": ["Advik Manoj", "Grace Odeyomi"],
+              "event-placement": 47,
+              "event-total-competing-teams": 78
+            },
+            "Helicopter": {
+              "partners": ["Alekhya Dushetty", "Tanya Thind"],
+              "event-placement": 32,
+              "event-total-competing-teams": 30
+            },
+            "Meteorology": {
+              "partners": ["Kashika Singla", "Leonardo Dou"],
+              "event-placement": 22,
+              "event-total-competing-teams": 80
+            },
+            "Metric Mastery": {
+              "partners": ["Maanvi Thatola", "Riya Swaminathan"],
+              "event-placement": 23,
+              "event-total-competing-teams": 78
+            },
+            "Microbe Mission": {
+              "partners": ["Leonardo Dou", "Vihaan Joshi"],
+              "event-placement": 40,
+              "event-total-competing-teams": 79
+            },
+            "Mission Possible": {
+              "partners": ["Alekhya Dushetty", "Eduardo Erazo"],
+              "event-placement": 12,
+              "event-total-competing-teams": 29
+            },
+            "Optics": {
+              "partners": ["Alekhya Dushetty", "Eduardo Erazo"],
+              "event-placement": 20,
+              "event-total-competing-teams": 83
+            },
+            "Potions and Poisons": {
+              "partners": ["Maanvi Thatola", "Vihaan Joshi"],
+              "event-placement": 31,
+              "event-total-competing-teams": 83
+            },
+            "Reach for the Stars": {
+              "partners": ["Maanvi Thatola", "Tanvi Jandhyala"],
+              "event-placement": 21,
+              "event-total-competing-teams": 85
+            },
+            "Road Scholar": {
+              "partners": ["Grace Odeyomi", "Kashika Singla"],
+              "event-placement": 24,
+              "event-total-competing-teams": 73
+            },
+            "Scrambler": {
+              "partners": ["Sophia Christanti", "Alekhya Dushetty"],
+              "event-placement": 21,
+              "event-total-competing-teams": 36
+            },
+            "Tower": {
+              "partners": ["Tanya Thind", "Nivaan Debnath"],
+              "event-placement": 34,
+              "event-total-competing-teams": 41
+            },
+            "Wind Power": {
+              "partners": ["Eduardo Erazo", "Tanvi Jandhyala"],
+              "event-placement": 54,
+              "event-total-competing-teams": 76
+            },
+            "Write It Do It": {
+              "partners": ["Kashika Singla", "Tanya Thind"],
+              "event-placement": 8,
+              "event-total-competing-teams": 54
+            }
+          }
+        }
+      }
+    },
+    "anthony": {
+      "tournament-date": "2024-11-9",
+      "weight": 16,
+      "teams": {
+        "a-team": {
+          "Air Trajectory": {
+            "partners": ["Kelvin Quan", "Zoha Mohammed"],
+            "event-placement": 1,
+            "event-total-competing-teams": 26
+          },
+          "Anatomy and Physiology": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 2,
+            "event-total-competing-teams": 33
+          },
+          "Codebusters": {
+            "partners": ["Kunsh Kalra", "Riya Swaminathan", "Dylan Capule"],
+            "event-placement": 3,
+            "event-total-competing-teams": 35
+          },
+          "Crimebusters": {
+            "partners": ["Kelvin Quan", "Aria Zhang"],
+            "event-placement": 2,
+            "event-total-competing-teams": 33
+          },
+          "Disease Detectives": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 2,
+            "event-total-competing-teams": 30
+          },
+          "Dynamic Planet": {
+            "partners": ["Kunsh Kalra", "Evan Feng"],
+            "event-placement": 1,
+            "event-total-competing-teams": 28
+          },
+          "Ecology": {
+            "partners": ["Maverick Ma", "Madeline Rorie"],
+            "event-placement": 2,
+            "event-total-competing-teams": 33
+          },
+          "Entomology": {
+            "partners": ["Maverick Ma", "Madeline Rorie"],
+            "event-placement": 1,
+            "event-total-competing-teams": 30
+          },
+          "Experimental Design": {
+            "partners": ["Zoha Mohammed", "Riya Swaminathan", "Anika Mehta"],
+            "event-placement": 1,
+            "event-total-competing-teams": 29
+          },
+          "Fosils": {
+            "partners": ["Evan Feng", "Maverick Ma"],
+            "event-placement": 4,
+            "event-total-competing-teams": 28
+          },
+          "Helicopter": {
+            "partners": ["Anika Mehta", "Joshua Zheng"],
+            "event-placement": 1,
+            "event-total-competing-teams": 24
+          },
+          "Meteorology": {
+            "partners": ["Evan Feng", "Zurui Zhang"],
+            "event-placement": 1,
+            "event-total-competing-teams": 37
+          },
+          "Metric Mastery": {
+            "partners": ["Riya Swaminathan", "Dylan Capule"],
+            "event-placement": 25,
+            "event-total-competing-teams": 30
+          },
+          "Microbe Mission": {
+            "partners": ["Anish Kunapareddy", "Raymond Zou"],
+            "event-placement": 4,
+            "event-total-competing-teams": 32
+          },
+          "Mission Possible": {
+            "partners": ["Zoha Mohammed", "Kathy Liu"],
+            "event-placement": 22,
+            "event-total-competing-teams": 22
+          },
+          "Optics": {
+            "partners": ["Evan Feng", "Madeline Rorie"],
+            "event-placement": 3,
+            "event-total-competing-teams": 28
+          },
+          "Potions and Poisons": {
+            "partners": ["Kunah Kalra", "Zurui Zhang"],
+            "event-placement": 3,
+            "event-total-competing-teams": 32
+          },
+          "Reach for the Stars": {
+            "partners": ["Evan Feng", "Zurui Zhang"],
+            "event-placement": 2,
+            "event-total-competing-teams": 31
+          },
+          "Road Scholar": {
+            "partners": ["Kunah Kalra", "Anish Kunapareddy"],
+            "event-placement": 1,
+            "event-total-competing-teams": 30
+          },
+          "Scrambler": {
+            "partners": ["Zoha Mohammed", "Kathy Liu"],
+            "event-placement": 2,
+            "event-total-competing-teams": 28
+          },
+          "Tower": {
+            "partners": ["Kelvin Quan", "Kathy Liu"],
+            "event-placement": 2,
+            "event-total-competing-teams": 28
+          },
+          "Wind Power": {
+            "partners": ["Arnav Taneja", "Joshua Zheng"],
+            "event-placement": 13,
+            "event-total-competing-teams": 34
+          },
+          "Write It Do It": {
+            "partners": ["Joshua Zheng", "Zurui Zhang"],
+            "event-placement": 2,
+            "event-total-competing-teams": 27
+          },
+          "b-team": {
+            "Air Trajectory": {
+              "partners": ["Grace Odeyomi", "Alekhya Dushetty"],
+              "event-placement": 18,
+              "event-total-competing-teams": 26
+            },
+            "Anatomy and Physiology": {
+              "partners": ["Tanya Thind", "Leonardo Dou"],
+              "event-placement": 9,
+              "event-total-competing-teams": 33
+            },
+            "Codebusters": {
+              "partners": ["Alekhya Dushetty", "Sophia Fu", "Vihaan Joshi"],
+              "event-placement": 5,
+              "event-total-competing-teams": 33
+            },
+            "Crimebusters": {
+              "partners": ["Sophia Xia", "Sophia Christanti"],
+              "event-placement": 5,
+              "event-total-competing-teams": 33
+            },
+            "Disease Detectives": {
+              "partners": ["Arnav Taneja", "Advik Manoj"],
+              "event-placement": 5,
+              "event-total-competing-teams": 30
+            },
+            "Dynamic Planet": {
+              "partners": ["Arnav Taneja", "Sophia Christanti"],
+              "event-placement": 4,
+              "event-total-competing-teams": 28
+            },
+            "Ecology": {
+              "partners": ["Advik Manoj", "Leonardo Dou"],
+              "event-placement": 15,
+              "event-total-competing-teams": 86
+            },
+            "Entomology": {
+              "partners": ["Grace Odeyomi", "Sophia Xia"],
+              "event-placement": 2,
+              "event-total-competing-teams": 30
+            },
+            "Experimental Design": {
+              "partners": ["Aashritha Vaka", "Sophia Xia", "Tanvi Jandhyala"],
+              "event-placement": 27,
+              "event-total-competing-teams": 72
+            },
+            "Fosils": {
+              "partners": ["Arnav Taneja", "Vedant Varanasi"],
+              "event-placement": 5,
+              "event-total-competing-teams": 28
+            },
+            "Helicopter": {
+              "partners": ["Advik Manoj", "Tanya Thind"],
+              "event-placement": 6,
+              "event-total-competing-teams": 24
+            },
+            "Meteorology": {
+              "partners": ["Leonardo Dou", "Vedant Varanasi"],
+              "event-placement": 22,
+              "event-total-competing-teams": 80
+            },
+            "Metric Mastery": {
+              "partners": ["Maanvi Thatola", "Sophia Fu"],
+              "event-placement": 3,
+              "event-total-competing-teams": 30
+            },
+            "Microbe Mission": {
+              "partners": ["Leonardo Dou", "Thaanvi Kumar"],
+              "event-placement": 40,
+              "event-total-competing-teams": 79
+            },
+            "Mission Possible": {
+              "partners": ["Aashritha Vaka", "Sophia Christanti"],
+              "event-placement": 18,
+              "event-total-competing-teams": 22
+            },
+            "Optics": {
+              "partners": ["Advik Manoj", "Eduardo Erazo"],
+              "event-placement": 5,
+              "event-total-competing-teams": 28
+            },
+            "Potions and Poisons": {
+              "partners": ["Alekhya Dushetty", "Maanvi Thatola"],
+              "event-placement": 31,
+              "event-total-competing-teams": 83
+            },
+            "Reach for the Stars": {
+              "partners": ["Maanvi Thatola", "Arnav Taneja"],
+              "event-placement": 21,
+              "event-total-competing-teams": 85
+            },
+            "Road Scholar": {
+              "partners": ["Grace Odeyomi", "Thaanvi Kumar"],
+              "event-placement": 2,
+              "event-total-competing-teams": 30
+            },
+            "Scrambler": {
+              "partners": ["Sophia Christanti", "Aashritha Vaka"],
+              "event-placement": 4,
+              "event-total-competing-teams": 26
+            },
+            "Tower": {
+              "partners": ["Tanya Thind", "Tanvi Jandhyala"],
+              "event-placement": 12,
+              "event-total-competing-teams": 28
+            },
+            "Wind Power": {
+              "partners": ["Vedant Varanasi", "Tanvi Jandhyala"],
+              "event-placement": 7,
+              "event-total-competing-teams": 27
+            },
+            "Write It Do It": {
+              "partners": ["Tanvi Jandhyala", "Thaanvi Kumar"],
+              "event-placement": 5,
+              "event-total-competing-teams": 34
+            }
+          }
+        }
+      }
     }
   },
   "test-offs": {
     "fall-test-offs": {
-      "weight": 0.1,
+      "weight": 3,
       "events": [
         {
           "event-name": "Air Trajectory",
@@ -1631,7 +1755,7 @@
               "placement": 3
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 4
             },
             {
@@ -1817,7 +1941,7 @@
               "placement": 4
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 5
             },
             {
@@ -1912,7 +2036,7 @@
               "placement": 3
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 4
             },
             {
@@ -1969,7 +2093,7 @@
               "placement": 6
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 1
             }
           ]
@@ -1977,7 +2101,7 @@
       ]
     },
     "winter-test-offs": {
-      "weight": 2.0,
+      "weight": 25,
       "events": [
         {
           "event-name": "Anatomy and Physiology",
@@ -2016,52 +2140,60 @@
           "event-name": "Codebusters",
           "participants": [
             {
-              "student-name": "Dylan Capule",
+              "student-name": "Kunsh Kalra",
               "placement": 1
             },
             {
-              "student-name": "Anika Mehta",
+              "student-name": "Dylan Capule",
               "placement": 2
             },
             {
-              "student-name": "Sophia Fu",
+              "student-name": "Riya Swaminathan",
               "placement": 3
             },
             {
-              "student-name": "Zoha Mohammed",
+              "student-name": "Anika Mehta",
               "placement": 4
             },
             {
-              "student-name": "Jeeya Dwivedi",
+              "student-name": "Sophia Fu",
               "placement": 5
             },
             {
-              "student-name": "Joshua Zheng",
+              "student-name": "Zoha Mohammed",
               "placement": 6
             },
             {
-              "student-name": "Alekhya Dushetty",
+              "student-name": "Jeeya Dwivedi",
               "placement": 7
             },
             {
-              "student-name": "Vihaan Joshi",
+              "student-name": "Joshua Zheng",
               "placement": 8
             },
             {
-              "student-name": "Sophia Xia",
+              "student-name": "Alekhya Dushetty",
               "placement": 9
             },
             {
-              "student-name": "Kashika Singal",
+              "student-name": "Vihaan Joshi",
               "placement": 10
             },
             {
-              "student-name": "Maanvi Thatola",
+              "student-name": "Sophia Xia",
               "placement": 11
             },
             {
-              "student-name": "Anish Kunapareddy",
+              "student-name": "Kashika Singal",
               "placement": 12
+            },
+            {
+              "student-name": "Maanvi Thatola",
+              "placement": 13
+            },
+            {
+              "student-name": "Anish Kunapareddy",
+              "placement": 14
             }
           ]
         },
@@ -2304,7 +2436,7 @@
           "event-name": "Meteorology",
           "participants": [
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 1
             },
             {
@@ -2436,7 +2568,7 @@
               "placement": 4
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 5
             },
             {
@@ -2485,7 +2617,7 @@
               "placement": 5
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 6
             },
             {
@@ -2572,7 +2704,7 @@
               "placement": 1
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 2
             },
             {
@@ -2633,7 +2765,7 @@
               "placement": 4
             },
             {
-              "student-name": "Vedant Veranasi",
+              "student-name": "Vedant Varanasi",
               "placement": 5
             },
             {

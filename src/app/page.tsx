@@ -32,21 +32,25 @@ export default function Home() {
   const handleSubmit = useCallback(async () => {
     if (!jsonFile) return;
     setShowSpreadsheet(true);
+
     const reader = new FileReader();
     reader.readAsText(jsonFile);
-    reader.onload = async () => {
+
+    reader.onload = async function () {
+      if (!reader.result) return; // Ensure there is a result
+
       try {
         const jsonData = JSON.parse(reader.result as string);
         setEvents(jsonData.events);
-  
-        const response = await fetch("/api/assignments", {
+
+        const response = await fetch("/api/assignments/", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ data: jsonData, teamCount }),
         });
-  
+
         if (!response.ok) throw new Error("Failed to fetch assignments");
-  
+
         const assignments = await response.json();
         setOptimalAssignments(assignments);
         toast.success(
@@ -57,8 +61,8 @@ export default function Home() {
         toast.error("There was an error while processing the file.");
       }
     };
-  }, [jsonFile, teamCount]); // Dependencies
-  
+  }, [jsonFile, teamCount, setEvents, setOptimalAssignments]); // Include all dependencies
+
   useEffect(() => {
     const handleKeyPress = (event: KeyboardEvent) => {
       if (event.key === "Enter" && jsonFile) {
@@ -66,7 +70,7 @@ export default function Home() {
         handleSubmit();
       }
     };
-  
+
     document.addEventListener("keypress", handleKeyPress);
     return () => {
       document.removeEventListener("keypress", handleKeyPress);
@@ -78,30 +82,30 @@ export default function Home() {
     <div className="min-h-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(5,5,32,255))]">
       <Toaster />
       <header className="border-b border-gray-600">
-          <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex justify-between items-center h-16">
-              <div className="flex-shrink-0">
-                <span className="text-2xl font-bold text-gray-300">
-                  Sciflow
-                </span>
-              </div>
-              <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-                <Link
-                  href="/pages/about"
-                  className="text-gray-300 hover:text-gray-100 px-3 py-2 text-sm font-medium"
-                >
-                  About
-                </Link>
-                <Link
-                  href="/pages/support"
-                  className="text-gray-300 hover:text-gray-100 px-3 py-2 text-sm font-medium"
-                >
-                  Support
-                </Link>
-              </div>
+        <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="flex justify-between items-center h-16">
+            <div className="flex-shrink-0">
+              <span className="text-2xl font-bold text-gray-300">
+                <Link href="/">Sciflow</Link>
+              </span>
             </div>
-          </nav>
-        </header>
+            <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+              <Link
+                href="/pages/about"
+                className="text-gray-300 hover:text-gray-100 px-3 py-2 text-sm font-medium"
+              >
+                About
+              </Link>
+              <Link
+                href="/pages/support"
+                className="text-gray-300 hover:text-gray-100 px-3 py-2 text-sm font-medium"
+              >
+                Support
+              </Link>
+            </div>
+          </div>
+        </nav>
+      </header>
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-16">
         <div className="max-w-4xl mx-auto text-center space-y-8">
           <h1 className="text-5xl lg:text-6xl font-medium text-stone-100 tracking-tight leading-none">
