@@ -19,8 +19,7 @@ export default function Support() {
                 Creating JSON Data
               </h2>
               <p className="text-gray-300 leading-relaxed">
-                To use the Event Assigner, you'll need to prepare your data in
-                JSON format. Here's how to structure your JSON file:
+                To use the Event Assigner, you&apos;ll need to prepare your data in JSON format. Here&apos;s how to structure your JSON file:
               </p>
               <div className="bg-gray-900/50 p-6 rounded-lg border border-gray-700">
                 <p
@@ -104,8 +103,8 @@ export default function Support() {
                       events
                     </strong>
                     : An array containing all 23 national event names and,
-                    optionally, state-specific events (e.g., "Air Trajectory",
-                    "Anatomy and Physiology")
+                    optionally, state-specific events (e.g., &quot;Air Trajectory&quot;,
+                    &quot;Anatomy and Physiology&quot;)
                   </li>
                   <li>
                     <strong className="text-sm text-gray-300 overflow-x-auto font-mono bg-gray-900/50 px-2 py-1 rounded-lg border border-gray-700">
@@ -120,11 +119,11 @@ export default function Support() {
                     : Contains tournament data with:
                     <ul className="space-y-3 text-gray-300 list-disc list-inside">
                       <li className="ml-6">
-                        Tournament name (e.g., "regionals") and date
+                        Tournament name (e.g., &quot;regionals&quot;) and date
                       </li>
                       <li className="ml-6">Tournament weight</li>
                       <li className="ml-6">
-                        Teams ("a-team", etc.) with event details including
+                        Teams (&quot;a-team&quot;, etc.) with event details including
                         partners, placement, and total competing teams used to
                         calculated a normalized weight
                       </li>
@@ -137,7 +136,7 @@ export default function Support() {
                     : Contains practice/qualification data with:
                     <ul className="space-y-3 text-gray-300 list-disc list-inside">
                       <li className="ml-6">
-                        Test-off name (e.g., "fall-test-offs") with weight
+                        Test-off name (e.g., &quot;fall-test-offs&quot;) with weight
                       </li>
                       <li className="ml-6">
                         Events array containing event name, participants list
@@ -172,7 +171,7 @@ export default function Support() {
                 steps:
               </p>
               <ol className="space-y-3 text-gray-300 list-decimal list-inside">
-                <li>Giving each student a "cost" for performing each event</li>
+                <li>Giving each student a &quot;cost&quot; for performing each event</li>
                 <li>Sorting students into teams</li>
                 <li>Assigning tasks to each team</li>
               </ol>

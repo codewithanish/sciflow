@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import styles from "./page.module.css";
 import SpreadsheetView from "../components/SpreadsheetView";
@@ -15,7 +15,7 @@ type Assignment = {
 };
 
 export default function Home() {
-  let [teamCount, setTeamCount] = useState(1);
+  const [teamCount, setTeamCount] = useState(1);
   const [jsonFile, setJsonFile] = useState<File | null>(null);
   const [showSpreadsheet, setShowSpreadsheet] = useState(false);
   const [events, setEvents] = useState<string[]>([]);
@@ -29,7 +29,7 @@ export default function Home() {
     }
   };
 
-  const handleSubmit = async () => {
+  const handleSubmit = useCallback(async () => {
     if (!jsonFile) return;
     setShowSpreadsheet(true);
     const reader = new FileReader();
@@ -38,15 +38,15 @@ export default function Home() {
       try {
         const jsonData = JSON.parse(reader.result as string);
         setEvents(jsonData.events);
-
+  
         const response = await fetch("/api/assignments", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ data: jsonData, teamCount }),
         });
-
+  
         if (!response.ok) throw new Error("Failed to fetch assignments");
-
+  
         const assignments = await response.json();
         setOptimalAssignments(assignments);
         toast.success(
@@ -57,8 +57,8 @@ export default function Home() {
         toast.error("There was an error while processing the file.");
       }
     };
-  };
-
+  }, [jsonFile, teamCount]); // Dependencies
+  
   useEffect(() => {
     const handleKeyPress = (event: KeyboardEvent) => {
       if (event.key === "Enter" && jsonFile) {
@@ -66,12 +66,12 @@ export default function Home() {
         handleSubmit();
       }
     };
-
+  
     document.addEventListener("keypress", handleKeyPress);
     return () => {
       document.removeEventListener("keypress", handleKeyPress);
     };
-  }, [handleSubmit, jsonFile]);
+  }, [handleSubmit, jsonFile]); // Dependencies
 
   const teamOptions = Array.from({ length: 10 }, (_, i) => i + 1);
   return (
